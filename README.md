@@ -17,4 +17,3 @@ well this script is very basic, it can
 . test inject urls through custome lists
 . use tor sockets to connect and tunnel to the client 
 . table out the data of the injectable url
---------------------------------------------------
